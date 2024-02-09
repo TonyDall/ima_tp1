@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tp1</string>
+    <string name="prenom_label">Prénom :</string>
+    <string name="nom_label">Nom :</string>
+    <string name="date_naissance_label">Date de naissance :</string>
+    <string name="idul_label">IDUL :</string>
+</resources>
